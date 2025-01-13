@@ -52,7 +52,7 @@ console.log(teachers);
 // e salvalo nella variabile lewisIndex
 const lewisIndex = teachers.indexOf("Lewis");
 
-console.log(`${lewisIndex}`);
+console.log(lewisIndex);
 
 // 8. Verifica se l'array teachers è vuoto
 // e salva il risultato nella variabile isTeachersEmpty
